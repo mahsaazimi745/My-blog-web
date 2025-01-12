@@ -1,0 +1,11 @@
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\bin\Debug\net8.0\Programming-Blog.CoreLayer.deps.json
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\bin\Debug\net8.0\Programming-Blog.CoreLayer.dll
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\bin\Debug\net8.0\Programming-Blog.CoreLayer.pdb
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\Programming-Blog.CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\Programming-Blog.CoreLayer.AssemblyInfoInputs.cache
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\Programming-Blog.CoreLayer.AssemblyInfo.cs
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\Programming-Blog.CoreLayer.csproj.CoreCompileInputs.cache
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\Programming-Blog.CoreLayer.dll
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\refint\Programming-Blog.CoreLayer.dll
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\Programming-Blog.CoreLayer.pdb
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\ref\Programming-Blog.CoreLayer.dll

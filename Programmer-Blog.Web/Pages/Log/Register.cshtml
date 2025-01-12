@@ -1,0 +1,14 @@
+﻿@page
+@model Programmer_Blog.Web.Pages.Log.LoginModel
+@{
+	Layout = "_LogLayout";
+	ViewData["Title"] = "ثبت نام ";
+
+}
+<form action="/submit-your-login" method="POST">
+	<h1>@ViewData["Title"]</h1>
+	<input type="text" name="username" placeholder="نام کاربری" required>
+	<input type="text" name="fullname" placeholder="نام و نام خانوادگی" required>
+	<input type="password" name="password" placeholder="رمز عبور" required>
+	<button type="submit">ورود به سایت </button>
+</form>

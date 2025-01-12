@@ -1,0 +1,19 @@
+﻿
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="/login/css/style.css">
+</head>
+<body>
+
+    <div class="login-container">
+        <h2>ورود به حساب</h2>
+       @RenderBody()
+    </div>
+    @await RenderSectionAsync("scripts",false)
+</body>
+</html>
+

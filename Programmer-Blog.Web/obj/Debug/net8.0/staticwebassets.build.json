@@ -1,0 +1,5172 @@
+{
+  "Version": 1,
+  "Hash": "F1Bd3HvRvPYo5E5eVmJ7DM64B/g+OrXsrAm90gjTcpE=",
+  "Source": "Programmer-Blog.Web",
+  "BasePath": "_content/Programmer-Blog.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Programmer-Blog.Web\\wwwroot",
+      "Source": "Programmer-Blog.Web",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Programmer-Blog.Web.styles.css",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "Programmer-Blog.Web#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "ug7cul9b2g",
+      "Integrity": "zlLvHWicG4xVR90wrv2Kt9OAQiiIzHnHgtWaZbS9Q+I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Programmer-Blog.Web.styles.css"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Programmer-Blog.Web.bundle.scp.css",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "Programmer-Blog.Web#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "ug7cul9b2g",
+      "Integrity": "zlLvHWicG4xVR90wrv2Kt9OAQiiIzHnHgtWaZbS9Q+I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Programmer-Blog.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\main.css",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/css/main#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2giroco6o9",
+      "Integrity": "Il5V56hdLg4CYd3MVzx0npWaC5yL6IvHFuab/mdFo5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\css\\main.css"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\ajax-loader.gif",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/css/vendor/ajax-loader#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fypy1n2a1i",
+      "Integrity": "57RMhrBQ/KdmqW3awtCTKvASbabyMFKANC2QkWjczms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\css\\vendor\\ajax-loader.gif"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\bootstrap.min.css",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/css/vendor/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mntdqcrfuy",
+      "Integrity": "nq7J0kse50upWdNiXRDsuGd/AkfaHz0hX8HgCUsCASY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\css\\vendor\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.eot",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/css/vendor/fonts/slick#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6tyrrxu1yi",
+      "Integrity": "BtgM8BJQEy/RBocBEIRT/u5ohUt1DSLDRP/A3jleHcs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\css\\vendor\\fonts\\slick.eot"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.svg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/css/vendor/fonts/slick#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m6wwoyv29g",
+      "Integrity": "EkWfIhoLeHvx6uvy5MSPyivZ+Ek/cSVsMEPnoMfpMvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\css\\vendor\\fonts\\slick.svg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.ttf",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/css/vendor/fonts/slick#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9869s41upd",
+      "Integrity": "N7yZz9u8BGGTomOWeHN00A57ENOnWKNgRcB72IhjYNI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\css\\vendor\\fonts\\slick.ttf"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.woff",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/css/vendor/fonts/slick#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mcq75vfguu",
+      "Integrity": "JnJrrEBgq7EibmzuvBM26Ekw/np68bOJWhCdBn9bXcw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\css\\vendor\\fonts\\slick.woff"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\slick.css",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/css/vendor/slick#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mmzakapvcy",
+      "Integrity": "3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\css\\vendor\\slick.css"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\slick-theme.css",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/css/vendor/slick-theme#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n553fmt0w6",
+      "Integrity": "25MJlj4UbYJZgaCzSF/xPQzGICAjnA7Sxjv/jKVXJRI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\css\\vendor\\slick-theme.css"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\01.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/01#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k412hiue78",
+      "Integrity": "NAvnn1cp80A+Qxn/RrvuJY9ZRt1b5XH2icWKlUtjE+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\01.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\02.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cv6q5uvr9v",
+      "Integrity": "uE21K2X2dpXGG3/Se5TCI4kboX8/BGaaAG2W6AzMGk8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\02.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\03.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b1asj575zm",
+      "Integrity": "MQcks2o6tnTfbe68l8OV6ANqag7l2JEWbxOjuxoFRlc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\03.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\04.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/04#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pibyxoussi",
+      "Integrity": "L5Cj7L2N7euEKmernw7/t1nnB/dczuMdHXhC9NnCTUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\04.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\05.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/05#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfio37mfhz",
+      "Integrity": "U/JGu/agV/QYneLohjMMUAx51X5wi4DDuZlaDC5T8jw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\05.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\authorsm.png",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/authorsm#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ghie7491ly",
+      "Integrity": "FBw7ddiAmaENoqCWzhJ1tRXASxqsPp5uTvaDFDrlGZU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\authorsm.png"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\banner.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/banner#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "szckt1szfr",
+      "Integrity": "yN8jh3w6PfJjJGC9QxtbVzX0fJC4his1JWUVRW+M3K0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\banner.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\blogd01.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/blogd01#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mbwfurkv1d",
+      "Integrity": "noSobONyM0rVP+bO+qrh1B3YptnQDkISZ54GwKZ3Ais=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\blogd01.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\blogd02.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/blogd02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1kzg42wsrm",
+      "Integrity": "/xs0Tdw+sFfxDnUkiRJfJpmWS956SkW/pEMLlIVk+z8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\blogd02.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\category-01.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/category-01#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9k6866pn2i",
+      "Integrity": "OcGJJYIdaO5ch6HjDj6I4TxVi+9b5tcliVq6m9U8ZrY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\category-01.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\category-02.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/category-02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m1koqmcxv1",
+      "Integrity": "hhJMTDqP7xLeOLxrvVNXv32tQI2+bJzANaUxUzZ6WJY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\category-02.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\category-03.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/category-03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dwlgv3gadz",
+      "Integrity": "3b3e/Pq+m+VU1p26kWAh+lBPUb8OrHj8z7dC57XbzzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\category-03.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\cowner.png",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/cowner#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bq5w3uzia0",
+      "Integrity": "A7C8RXlPOuExkoSt1DPYVf9R3+W2tmGyuxZpKMzdfxc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\cowner.png"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\detailsbanner.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/detailsbanner#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e6u5auevyz",
+      "Integrity": "+rUh/e6EOVemEBF3K+O8nVoD6XojZ85D+ir0fLrC850=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\detailsbanner.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\screenshot.jpeg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/screenshot#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ony1it8gue",
+      "Integrity": "tMt1QY/4RnQrD80GPJKr3C/TXf69hhDB7K+wXS3YPeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\screenshot.jpeg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-01.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/sm-01#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5f5kgjjxhg",
+      "Integrity": "j/vHPx5CwKaABuwnd3hEfvtN2G0KgJ6v33RQ6hcQMK8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\sm-01.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-02.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/sm-02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oqcagm25th",
+      "Integrity": "AOfBa52OCMAUZr6uzI2DZuqKLZIVZNPcuO4XfngALWg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\sm-02.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-03.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/sm-03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rk78ccti6i",
+      "Integrity": "W2Q8EPGZKmgtHSCETWjVhMW65fuSwReNpGeQhrEhKxY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\sm-03.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-04.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/sm-04#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "trw7woq0uz",
+      "Integrity": "qcG6uKJTckxTBggQJ7stXe78RNFCuNgCPZgrCA/Wcfg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\sm-04.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-05.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/sm-05#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8cdaonkjzn",
+      "Integrity": "+MnxP1AfqBbZ5GfwrR+gTRv9czO2cC0OpIX384jxP7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\sm-05.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-06.jpg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/images/sm-06#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uu7qs3n4wj",
+      "Integrity": "RqJ/9/64AOkTPrXVG7z3LcyDJP6UwpUHYsiUs06nYk8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\images\\sm-06.jpg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bsdus3e00i",
+      "Integrity": "tfbRzZ36wuPoeUKXyuewrLOzcfgdO2ovc4ozuYRWMs4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\jquery-3.6.0.min.js",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/js/jquery-3.6.0.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dd6z7egasc",
+      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\main.js",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e7wqgl6rsz",
+      "Integrity": "isnPMe+21GwxaG0t6Gs03TOYCTITS6Jjo92jz7CCPp8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\js\\main.js"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\menu.js",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/js/menu#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f15m7iowea",
+      "Integrity": "/c3V0I8IVRaOCOLPxxMrf3cms9htq2RhFRS/huHaiQ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\js\\menu.js"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\slick.min.js",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "dist/js/slick.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8vxybdbzmv",
+      "Integrity": "DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\js\\slick.min.js"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\favicon.ico",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\LICENSE.md",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "LICENSE#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u99kghj74m",
+      "Integrity": "8k9rAP2H618D3I+Yzv6Q6Nr5LgQlVlzw7/HIk5DcnIU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\LICENSE.md"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\login\\css\\style.css",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "login/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "31862xjm8h",
+      "Integrity": "2XvVOY5QK8GvVNX/cLJiHiOaQqQEQ1ERjZ5rezUojzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login\\css\\style.css"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\README.md",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "README#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "urc189p84m",
+      "Integrity": "6lIkjHZvMDx3GmpHBgPKYcODDyxECa0KtQS777w8MHY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\README.md"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\screenshot.jpeg",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "screenshot#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ony1it8gue",
+      "Integrity": "tMt1QY/4RnQrD80GPJKr3C/TXf69hhDB7K+wXS3YPeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\screenshot.jpeg"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\_reset.scss",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "src/scss/_reset#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aujojz09in",
+      "Integrity": "jubEhCB5x+bXrIzLduOb8raetQIKumNc7HA5VgJ8Jyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\scss\\_reset.scss"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\_typography.scss",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "src/scss/_typography#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7qg7ruqn4t",
+      "Integrity": "kRxwWAexuKKNZJpjpsHtcnP45QtVyXco8UX3IB+/MJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\scss\\_typography.scss"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\_variable.scss",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "src/scss/_variable#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hssov1wubo",
+      "Integrity": "wUrfPtYeINlJbeDUpI/C6YSj3HE19+9PiKJn3lt9g0U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\scss\\_variable.scss"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\main.scss",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "src/scss/main#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ro7ywz0i7b",
+      "Integrity": "lZgbwIiFPNOTqr9IIjnRwqFYl3GrkhhHrL1mNwDYjUI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\scss\\main.scss"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_blogdetails.scss",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "src/scss/pages/_blogdetails#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "57u6opm909",
+      "Integrity": "n2Vq3RpRU560HSS0EvX6Egc0Zhrj1TAV6kZvq4F0mTE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\scss\\pages\\_blogdetails.scss"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_blogysearch.scss",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "src/scss/pages/_blogysearch#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e16xglrva0",
+      "Integrity": "0pArNgd6yKMfNGbMsDXdXpunw6vYwCXvwmoPmrorgWE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\scss\\pages\\_blogysearch.scss"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_index.scss",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "src/scss/pages/_index#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jq6xziqzs6",
+      "Integrity": "W4vGHy0MzNg3jgjF7rjrLbshmYxvSIhUddVmWt3lM8E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\scss\\pages\\_index.scss"
+    },
+    {
+      "Identity": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_theme.scss",
+      "SourceId": "Programmer-Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Programmer-Blog.Web",
+      "RelativePath": "src/scss/pages/_theme#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f08vkj2y56",
+      "Integrity": "T5owdGjCLbRDTw8z2h0+XOyuO2Zlhw/j3+er31kBPzk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\scss\\pages\\_theme.scss"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "dist/css/main.2giroco6o9.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Il5V56hdLg4CYd3MVzx0npWaC5yL6IvHFuab/mdFo5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2giroco6o9"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/css/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Il5V56hdLg4CYd3MVzx0npWaC5yL6IvHFuab/mdFo5Q="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/main.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Il5V56hdLg4CYd3MVzx0npWaC5yL6IvHFuab/mdFo5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Il5V56hdLg4CYd3MVzx0npWaC5yL6IvHFuab/mdFo5Q="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/ajax-loader.fypy1n2a1i.gif",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\ajax-loader.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"57RMhrBQ/KdmqW3awtCTKvASbabyMFKANC2QkWjczms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fypy1n2a1i"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/css/vendor/ajax-loader.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-57RMhrBQ/KdmqW3awtCTKvASbabyMFKANC2QkWjczms="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/ajax-loader.gif",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\ajax-loader.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"57RMhrBQ/KdmqW3awtCTKvASbabyMFKANC2QkWjczms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-57RMhrBQ/KdmqW3awtCTKvASbabyMFKANC2QkWjczms="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/bootstrap.min.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nq7J0kse50upWdNiXRDsuGd/AkfaHz0hX8HgCUsCASY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nq7J0kse50upWdNiXRDsuGd/AkfaHz0hX8HgCUsCASY="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/bootstrap.min.mntdqcrfuy.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nq7J0kse50upWdNiXRDsuGd/AkfaHz0hX8HgCUsCASY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mntdqcrfuy"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/css/vendor/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nq7J0kse50upWdNiXRDsuGd/AkfaHz0hX8HgCUsCASY="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/fonts/slick.6tyrrxu1yi.eot",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BtgM8BJQEy/RBocBEIRT/u5ohUt1DSLDRP/A3jleHcs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6tyrrxu1yi"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/css/vendor/fonts/slick.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BtgM8BJQEy/RBocBEIRT/u5ohUt1DSLDRP/A3jleHcs="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/fonts/slick.9869s41upd.ttf",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7yZz9u8BGGTomOWeHN00A57ENOnWKNgRcB72IhjYNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9869s41upd"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/css/vendor/fonts/slick.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7yZz9u8BGGTomOWeHN00A57ENOnWKNgRcB72IhjYNI="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/fonts/slick.eot",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BtgM8BJQEy/RBocBEIRT/u5ohUt1DSLDRP/A3jleHcs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BtgM8BJQEy/RBocBEIRT/u5ohUt1DSLDRP/A3jleHcs="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/fonts/slick.m6wwoyv29g.svg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EkWfIhoLeHvx6uvy5MSPyivZ+Ek/cSVsMEPnoMfpMvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m6wwoyv29g"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/css/vendor/fonts/slick.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EkWfIhoLeHvx6uvy5MSPyivZ+Ek/cSVsMEPnoMfpMvY="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/fonts/slick.mcq75vfguu.woff",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JnJrrEBgq7EibmzuvBM26Ekw/np68bOJWhCdBn9bXcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mcq75vfguu"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/css/vendor/fonts/slick.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JnJrrEBgq7EibmzuvBM26Ekw/np68bOJWhCdBn9bXcw="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/fonts/slick.svg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EkWfIhoLeHvx6uvy5MSPyivZ+Ek/cSVsMEPnoMfpMvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EkWfIhoLeHvx6uvy5MSPyivZ+Ek/cSVsMEPnoMfpMvY="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/fonts/slick.ttf",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7yZz9u8BGGTomOWeHN00A57ENOnWKNgRcB72IhjYNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7yZz9u8BGGTomOWeHN00A57ENOnWKNgRcB72IhjYNI="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/fonts/slick.woff",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\fonts\\slick.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JnJrrEBgq7EibmzuvBM26Ekw/np68bOJWhCdBn9bXcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JnJrrEBgq7EibmzuvBM26Ekw/np68bOJWhCdBn9bXcw="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/slick.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/slick.mmzakapvcy.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmzakapvcy"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/css/vendor/slick.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/slick-theme.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\slick-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"25MJlj4UbYJZgaCzSF/xPQzGICAjnA7Sxjv/jKVXJRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-25MJlj4UbYJZgaCzSF/xPQzGICAjnA7Sxjv/jKVXJRI="
+        }
+      ]
+    },
+    {
+      "Route": "dist/css/vendor/slick-theme.n553fmt0w6.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\css\\vendor\\slick-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"25MJlj4UbYJZgaCzSF/xPQzGICAjnA7Sxjv/jKVXJRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n553fmt0w6"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/css/vendor/slick-theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-25MJlj4UbYJZgaCzSF/xPQzGICAjnA7Sxjv/jKVXJRI="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/01.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136565"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NAvnn1cp80A+Qxn/RrvuJY9ZRt1b5XH2icWKlUtjE+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NAvnn1cp80A+Qxn/RrvuJY9ZRt1b5XH2icWKlUtjE+k="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/01.k412hiue78.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136565"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NAvnn1cp80A+Qxn/RrvuJY9ZRt1b5XH2icWKlUtjE+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k412hiue78"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/01.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NAvnn1cp80A+Qxn/RrvuJY9ZRt1b5XH2icWKlUtjE+k="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/02.cv6q5uvr9v.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uE21K2X2dpXGG3/Se5TCI4kboX8/BGaaAG2W6AzMGk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cv6q5uvr9v"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uE21K2X2dpXGG3/Se5TCI4kboX8/BGaaAG2W6AzMGk8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/02.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uE21K2X2dpXGG3/Se5TCI4kboX8/BGaaAG2W6AzMGk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uE21K2X2dpXGG3/Se5TCI4kboX8/BGaaAG2W6AzMGk8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/03.b1asj575zm.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423123"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQcks2o6tnTfbe68l8OV6ANqag7l2JEWbxOjuxoFRlc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b1asj575zm"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQcks2o6tnTfbe68l8OV6ANqag7l2JEWbxOjuxoFRlc="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/03.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423123"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQcks2o6tnTfbe68l8OV6ANqag7l2JEWbxOjuxoFRlc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQcks2o6tnTfbe68l8OV6ANqag7l2JEWbxOjuxoFRlc="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/04.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "242763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L5Cj7L2N7euEKmernw7/t1nnB/dczuMdHXhC9NnCTUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L5Cj7L2N7euEKmernw7/t1nnB/dczuMdHXhC9NnCTUE="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/04.pibyxoussi.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "242763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L5Cj7L2N7euEKmernw7/t1nnB/dczuMdHXhC9NnCTUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pibyxoussi"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/04.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L5Cj7L2N7euEKmernw7/t1nnB/dczuMdHXhC9NnCTUE="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/05.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U/JGu/agV/QYneLohjMMUAx51X5wi4DDuZlaDC5T8jw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U/JGu/agV/QYneLohjMMUAx51X5wi4DDuZlaDC5T8jw="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/05.nfio37mfhz.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U/JGu/agV/QYneLohjMMUAx51X5wi4DDuZlaDC5T8jw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfio37mfhz"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/05.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U/JGu/agV/QYneLohjMMUAx51X5wi4DDuZlaDC5T8jw="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/authorsm.ghie7491ly.png",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\authorsm.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FBw7ddiAmaENoqCWzhJ1tRXASxqsPp5uTvaDFDrlGZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghie7491ly"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/authorsm.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FBw7ddiAmaENoqCWzhJ1tRXASxqsPp5uTvaDFDrlGZU="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/authorsm.png",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\authorsm.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FBw7ddiAmaENoqCWzhJ1tRXASxqsPp5uTvaDFDrlGZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FBw7ddiAmaENoqCWzhJ1tRXASxqsPp5uTvaDFDrlGZU="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/banner.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\banner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "782402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yN8jh3w6PfJjJGC9QxtbVzX0fJC4his1JWUVRW+M3K0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yN8jh3w6PfJjJGC9QxtbVzX0fJC4his1JWUVRW+M3K0="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/banner.szckt1szfr.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\banner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "782402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yN8jh3w6PfJjJGC9QxtbVzX0fJC4his1JWUVRW+M3K0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "szckt1szfr"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/banner.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yN8jh3w6PfJjJGC9QxtbVzX0fJC4his1JWUVRW+M3K0="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/blogd01.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\blogd01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"noSobONyM0rVP+bO+qrh1B3YptnQDkISZ54GwKZ3Ais=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-noSobONyM0rVP+bO+qrh1B3YptnQDkISZ54GwKZ3Ais="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/blogd01.mbwfurkv1d.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\blogd01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"noSobONyM0rVP+bO+qrh1B3YptnQDkISZ54GwKZ3Ais=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mbwfurkv1d"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/blogd01.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-noSobONyM0rVP+bO+qrh1B3YptnQDkISZ54GwKZ3Ais="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/blogd02.1kzg42wsrm.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\blogd02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xs0Tdw+sFfxDnUkiRJfJpmWS956SkW/pEMLlIVk+z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1kzg42wsrm"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/blogd02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xs0Tdw+sFfxDnUkiRJfJpmWS956SkW/pEMLlIVk+z8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/blogd02.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\blogd02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xs0Tdw+sFfxDnUkiRJfJpmWS956SkW/pEMLlIVk+z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xs0Tdw+sFfxDnUkiRJfJpmWS956SkW/pEMLlIVk+z8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/category-01.9k6866pn2i.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\category-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OcGJJYIdaO5ch6HjDj6I4TxVi+9b5tcliVq6m9U8ZrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9k6866pn2i"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/category-01.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OcGJJYIdaO5ch6HjDj6I4TxVi+9b5tcliVq6m9U8ZrY="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/category-01.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\category-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OcGJJYIdaO5ch6HjDj6I4TxVi+9b5tcliVq6m9U8ZrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OcGJJYIdaO5ch6HjDj6I4TxVi+9b5tcliVq6m9U8ZrY="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/category-02.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\category-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hhJMTDqP7xLeOLxrvVNXv32tQI2+bJzANaUxUzZ6WJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hhJMTDqP7xLeOLxrvVNXv32tQI2+bJzANaUxUzZ6WJY="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/category-02.m1koqmcxv1.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\category-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hhJMTDqP7xLeOLxrvVNXv32tQI2+bJzANaUxUzZ6WJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m1koqmcxv1"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/category-02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hhJMTDqP7xLeOLxrvVNXv32tQI2+bJzANaUxUzZ6WJY="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/category-03.dwlgv3gadz.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\category-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3b3e/Pq+m+VU1p26kWAh+lBPUb8OrHj8z7dC57XbzzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dwlgv3gadz"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/category-03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3b3e/Pq+m+VU1p26kWAh+lBPUb8OrHj8z7dC57XbzzE="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/category-03.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\category-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3b3e/Pq+m+VU1p26kWAh+lBPUb8OrHj8z7dC57XbzzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3b3e/Pq+m+VU1p26kWAh+lBPUb8OrHj8z7dC57XbzzE="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/cowner.bq5w3uzia0.png",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\cowner.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7C8RXlPOuExkoSt1DPYVf9R3+W2tmGyuxZpKMzdfxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bq5w3uzia0"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/cowner.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7C8RXlPOuExkoSt1DPYVf9R3+W2tmGyuxZpKMzdfxc="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/cowner.png",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\cowner.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7C8RXlPOuExkoSt1DPYVf9R3+W2tmGyuxZpKMzdfxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7C8RXlPOuExkoSt1DPYVf9R3+W2tmGyuxZpKMzdfxc="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/detailsbanner.e6u5auevyz.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\detailsbanner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rUh/e6EOVemEBF3K+O8nVoD6XojZ85D+ir0fLrC850=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e6u5auevyz"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/detailsbanner.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rUh/e6EOVemEBF3K+O8nVoD6XojZ85D+ir0fLrC850="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/detailsbanner.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\detailsbanner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rUh/e6EOVemEBF3K+O8nVoD6XojZ85D+ir0fLrC850=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rUh/e6EOVemEBF3K+O8nVoD6XojZ85D+ir0fLrC850="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/screenshot.jpeg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\screenshot.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tMt1QY/4RnQrD80GPJKr3C/TXf69hhDB7K+wXS3YPeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tMt1QY/4RnQrD80GPJKr3C/TXf69hhDB7K+wXS3YPeU="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/screenshot.ony1it8gue.jpeg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\screenshot.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tMt1QY/4RnQrD80GPJKr3C/TXf69hhDB7K+wXS3YPeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ony1it8gue"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/screenshot.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tMt1QY/4RnQrD80GPJKr3C/TXf69hhDB7K+wXS3YPeU="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-01.5f5kgjjxhg.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j/vHPx5CwKaABuwnd3hEfvtN2G0KgJ6v33RQ6hcQMK8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5f5kgjjxhg"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/sm-01.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j/vHPx5CwKaABuwnd3hEfvtN2G0KgJ6v33RQ6hcQMK8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-01.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j/vHPx5CwKaABuwnd3hEfvtN2G0KgJ6v33RQ6hcQMK8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j/vHPx5CwKaABuwnd3hEfvtN2G0KgJ6v33RQ6hcQMK8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-02.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AOfBa52OCMAUZr6uzI2DZuqKLZIVZNPcuO4XfngALWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AOfBa52OCMAUZr6uzI2DZuqKLZIVZNPcuO4XfngALWg="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-02.oqcagm25th.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AOfBa52OCMAUZr6uzI2DZuqKLZIVZNPcuO4XfngALWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oqcagm25th"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/sm-02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AOfBa52OCMAUZr6uzI2DZuqKLZIVZNPcuO4XfngALWg="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-03.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W2Q8EPGZKmgtHSCETWjVhMW65fuSwReNpGeQhrEhKxY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W2Q8EPGZKmgtHSCETWjVhMW65fuSwReNpGeQhrEhKxY="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-03.rk78ccti6i.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W2Q8EPGZKmgtHSCETWjVhMW65fuSwReNpGeQhrEhKxY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rk78ccti6i"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/sm-03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W2Q8EPGZKmgtHSCETWjVhMW65fuSwReNpGeQhrEhKxY="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-04.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qcG6uKJTckxTBggQJ7stXe78RNFCuNgCPZgrCA/Wcfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qcG6uKJTckxTBggQJ7stXe78RNFCuNgCPZgrCA/Wcfg="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-04.trw7woq0uz.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qcG6uKJTckxTBggQJ7stXe78RNFCuNgCPZgrCA/Wcfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "trw7woq0uz"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/sm-04.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qcG6uKJTckxTBggQJ7stXe78RNFCuNgCPZgrCA/Wcfg="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-05.8cdaonkjzn.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+MnxP1AfqBbZ5GfwrR+gTRv9czO2cC0OpIX384jxP7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8cdaonkjzn"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/sm-05.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+MnxP1AfqBbZ5GfwrR+gTRv9czO2cC0OpIX384jxP7E="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-05.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+MnxP1AfqBbZ5GfwrR+gTRv9czO2cC0OpIX384jxP7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+MnxP1AfqBbZ5GfwrR+gTRv9czO2cC0OpIX384jxP7E="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-06.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RqJ/9/64AOkTPrXVG7z3LcyDJP6UwpUHYsiUs06nYk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RqJ/9/64AOkTPrXVG7z3LcyDJP6UwpUHYsiUs06nYk8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/images/sm-06.uu7qs3n4wj.jpg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\images\\sm-06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RqJ/9/64AOkTPrXVG7z3LcyDJP6UwpUHYsiUs06nYk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uu7qs3n4wj"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/images/sm-06.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RqJ/9/64AOkTPrXVG7z3LcyDJP6UwpUHYsiUs06nYk8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/js/bootstrap.bundle.min.bsdus3e00i.js",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tfbRzZ36wuPoeUKXyuewrLOzcfgdO2ovc4ozuYRWMs4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bsdus3e00i"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tfbRzZ36wuPoeUKXyuewrLOzcfgdO2ovc4ozuYRWMs4="
+        }
+      ]
+    },
+    {
+      "Route": "dist/js/bootstrap.bundle.min.js",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tfbRzZ36wuPoeUKXyuewrLOzcfgdO2ovc4ozuYRWMs4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tfbRzZ36wuPoeUKXyuewrLOzcfgdO2ovc4ozuYRWMs4="
+        }
+      ]
+    },
+    {
+      "Route": "dist/js/jquery-3.6.0.min.dd6z7egasc.js",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\jquery-3.6.0.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd6z7egasc"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/js/jquery-3.6.0.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "dist/js/jquery-3.6.0.min.js",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\jquery-3.6.0.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "dist/js/main.e7wqgl6rsz.js",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"isnPMe+21GwxaG0t6Gs03TOYCTITS6Jjo92jz7CCPp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e7wqgl6rsz"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-isnPMe+21GwxaG0t6Gs03TOYCTITS6Jjo92jz7CCPp8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/js/main.js",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"isnPMe+21GwxaG0t6Gs03TOYCTITS6Jjo92jz7CCPp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-isnPMe+21GwxaG0t6Gs03TOYCTITS6Jjo92jz7CCPp8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/js/menu.f15m7iowea.js",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\menu.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/c3V0I8IVRaOCOLPxxMrf3cms9htq2RhFRS/huHaiQ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f15m7iowea"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/js/menu.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/c3V0I8IVRaOCOLPxxMrf3cms9htq2RhFRS/huHaiQ8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/js/menu.js",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\menu.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/c3V0I8IVRaOCOLPxxMrf3cms9htq2RhFRS/huHaiQ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/c3V0I8IVRaOCOLPxxMrf3cms9htq2RhFRS/huHaiQ8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/js/slick.min.8vxybdbzmv.js",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\slick.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8vxybdbzmv"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/js/slick.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A="
+        }
+      ]
+    },
+    {
+      "Route": "dist/js/slick.min.js",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\dist\\js\\slick.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 10:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 10:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "LICENSE.md",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8k9rAP2H618D3I+Yzv6Q6Nr5LgQlVlzw7/HIk5DcnIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8k9rAP2H618D3I+Yzv6Q6Nr5LgQlVlzw7/HIk5DcnIU="
+        }
+      ]
+    },
+    {
+      "Route": "LICENSE.u99kghj74m.md",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8k9rAP2H618D3I+Yzv6Q6Nr5LgQlVlzw7/HIk5DcnIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u99kghj74m"
+        },
+        {
+          "Name": "label",
+          "Value": "LICENSE.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8k9rAP2H618D3I+Yzv6Q6Nr5LgQlVlzw7/HIk5DcnIU="
+        }
+      ]
+    },
+    {
+      "Route": "login/css/style.31862xjm8h.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\login\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2XvVOY5QK8GvVNX/cLJiHiOaQqQEQ1ERjZ5rezUojzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 09:48:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "31862xjm8h"
+        },
+        {
+          "Name": "label",
+          "Value": "login/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2XvVOY5QK8GvVNX/cLJiHiOaQqQEQ1ERjZ5rezUojzE="
+        }
+      ]
+    },
+    {
+      "Route": "login/css/style.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\login\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2XvVOY5QK8GvVNX/cLJiHiOaQqQEQ1ERjZ5rezUojzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 09:48:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2XvVOY5QK8GvVNX/cLJiHiOaQqQEQ1ERjZ5rezUojzE="
+        }
+      ]
+    },
+    {
+      "Route": "Programmer-Blog.Web.bundle.scp.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Programmer-Blog.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zlLvHWicG4xVR90wrv2Kt9OAQiiIzHnHgtWaZbS9Q+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 09:01:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zlLvHWicG4xVR90wrv2Kt9OAQiiIzHnHgtWaZbS9Q+I="
+        }
+      ]
+    },
+    {
+      "Route": "Programmer-Blog.Web.styles.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Programmer-Blog.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zlLvHWicG4xVR90wrv2Kt9OAQiiIzHnHgtWaZbS9Q+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 09:01:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zlLvHWicG4xVR90wrv2Kt9OAQiiIzHnHgtWaZbS9Q+I="
+        }
+      ]
+    },
+    {
+      "Route": "Programmer-Blog.Web.ug7cul9b2g.bundle.scp.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Programmer-Blog.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zlLvHWicG4xVR90wrv2Kt9OAQiiIzHnHgtWaZbS9Q+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 09:01:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ug7cul9b2g"
+        },
+        {
+          "Name": "label",
+          "Value": "Programmer-Blog.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zlLvHWicG4xVR90wrv2Kt9OAQiiIzHnHgtWaZbS9Q+I="
+        }
+      ]
+    },
+    {
+      "Route": "Programmer-Blog.Web.ug7cul9b2g.styles.css",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Programmer-Blog.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zlLvHWicG4xVR90wrv2Kt9OAQiiIzHnHgtWaZbS9Q+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 09:01:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ug7cul9b2g"
+        },
+        {
+          "Name": "label",
+          "Value": "Programmer-Blog.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zlLvHWicG4xVR90wrv2Kt9OAQiiIzHnHgtWaZbS9Q+I="
+        }
+      ]
+    },
+    {
+      "Route": "README.md",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lIkjHZvMDx3GmpHBgPKYcODDyxECa0KtQS777w8MHY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lIkjHZvMDx3GmpHBgPKYcODDyxECa0KtQS777w8MHY="
+        }
+      ]
+    },
+    {
+      "Route": "README.urc189p84m.md",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lIkjHZvMDx3GmpHBgPKYcODDyxECa0KtQS777w8MHY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "urc189p84m"
+        },
+        {
+          "Name": "label",
+          "Value": "README.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lIkjHZvMDx3GmpHBgPKYcODDyxECa0KtQS777w8MHY="
+        }
+      ]
+    },
+    {
+      "Route": "screenshot.jpeg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\screenshot.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tMt1QY/4RnQrD80GPJKr3C/TXf69hhDB7K+wXS3YPeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tMt1QY/4RnQrD80GPJKr3C/TXf69hhDB7K+wXS3YPeU="
+        }
+      ]
+    },
+    {
+      "Route": "screenshot.ony1it8gue.jpeg",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\screenshot.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tMt1QY/4RnQrD80GPJKr3C/TXf69hhDB7K+wXS3YPeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ony1it8gue"
+        },
+        {
+          "Name": "label",
+          "Value": "screenshot.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tMt1QY/4RnQrD80GPJKr3C/TXf69hhDB7K+wXS3YPeU="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/_reset.aujojz09in.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\_reset.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jubEhCB5x+bXrIzLduOb8raetQIKumNc7HA5VgJ8Jyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aujojz09in"
+        },
+        {
+          "Name": "label",
+          "Value": "src/scss/_reset.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jubEhCB5x+bXrIzLduOb8raetQIKumNc7HA5VgJ8Jyg="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/_reset.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\_reset.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jubEhCB5x+bXrIzLduOb8raetQIKumNc7HA5VgJ8Jyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jubEhCB5x+bXrIzLduOb8raetQIKumNc7HA5VgJ8Jyg="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/_typography.7qg7ruqn4t.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\_typography.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kRxwWAexuKKNZJpjpsHtcnP45QtVyXco8UX3IB+/MJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7qg7ruqn4t"
+        },
+        {
+          "Name": "label",
+          "Value": "src/scss/_typography.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kRxwWAexuKKNZJpjpsHtcnP45QtVyXco8UX3IB+/MJ4="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/_typography.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\_typography.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kRxwWAexuKKNZJpjpsHtcnP45QtVyXco8UX3IB+/MJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kRxwWAexuKKNZJpjpsHtcnP45QtVyXco8UX3IB+/MJ4="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/_variable.hssov1wubo.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\_variable.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wUrfPtYeINlJbeDUpI/C6YSj3HE19+9PiKJn3lt9g0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hssov1wubo"
+        },
+        {
+          "Name": "label",
+          "Value": "src/scss/_variable.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wUrfPtYeINlJbeDUpI/C6YSj3HE19+9PiKJn3lt9g0U="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/_variable.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\_variable.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wUrfPtYeINlJbeDUpI/C6YSj3HE19+9PiKJn3lt9g0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wUrfPtYeINlJbeDUpI/C6YSj3HE19+9PiKJn3lt9g0U="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/main.ro7ywz0i7b.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\main.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lZgbwIiFPNOTqr9IIjnRwqFYl3GrkhhHrL1mNwDYjUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ro7ywz0i7b"
+        },
+        {
+          "Name": "label",
+          "Value": "src/scss/main.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lZgbwIiFPNOTqr9IIjnRwqFYl3GrkhhHrL1mNwDYjUI="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/main.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\main.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lZgbwIiFPNOTqr9IIjnRwqFYl3GrkhhHrL1mNwDYjUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lZgbwIiFPNOTqr9IIjnRwqFYl3GrkhhHrL1mNwDYjUI="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/pages/_blogdetails.57u6opm909.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_blogdetails.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n2Vq3RpRU560HSS0EvX6Egc0Zhrj1TAV6kZvq4F0mTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "57u6opm909"
+        },
+        {
+          "Name": "label",
+          "Value": "src/scss/pages/_blogdetails.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n2Vq3RpRU560HSS0EvX6Egc0Zhrj1TAV6kZvq4F0mTE="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/pages/_blogdetails.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_blogdetails.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n2Vq3RpRU560HSS0EvX6Egc0Zhrj1TAV6kZvq4F0mTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n2Vq3RpRU560HSS0EvX6Egc0Zhrj1TAV6kZvq4F0mTE="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/pages/_blogysearch.e16xglrva0.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_blogysearch.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0pArNgd6yKMfNGbMsDXdXpunw6vYwCXvwmoPmrorgWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e16xglrva0"
+        },
+        {
+          "Name": "label",
+          "Value": "src/scss/pages/_blogysearch.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0pArNgd6yKMfNGbMsDXdXpunw6vYwCXvwmoPmrorgWE="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/pages/_blogysearch.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_blogysearch.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0pArNgd6yKMfNGbMsDXdXpunw6vYwCXvwmoPmrorgWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0pArNgd6yKMfNGbMsDXdXpunw6vYwCXvwmoPmrorgWE="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/pages/_index.jq6xziqzs6.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_index.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4vGHy0MzNg3jgjF7rjrLbshmYxvSIhUddVmWt3lM8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jq6xziqzs6"
+        },
+        {
+          "Name": "label",
+          "Value": "src/scss/pages/_index.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4vGHy0MzNg3jgjF7rjrLbshmYxvSIhUddVmWt3lM8E="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/pages/_index.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_index.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4vGHy0MzNg3jgjF7rjrLbshmYxvSIhUddVmWt3lM8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4vGHy0MzNg3jgjF7rjrLbshmYxvSIhUddVmWt3lM8E="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/pages/_theme.f08vkj2y56.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_theme.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T5owdGjCLbRDTw8z2h0+XOyuO2Zlhw/j3+er31kBPzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f08vkj2y56"
+        },
+        {
+          "Name": "label",
+          "Value": "src/scss/pages/_theme.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T5owdGjCLbRDTw8z2h0+XOyuO2Zlhw/j3+er31kBPzk="
+        }
+      ]
+    },
+    {
+      "Route": "src/scss/pages/_theme.scss",
+      "AssetFile": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\src\\scss\\pages\\_theme.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T5owdGjCLbRDTw8z2h0+XOyuO2Zlhw/j3+er31kBPzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Aug 2023 04:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T5owdGjCLbRDTw8z2h0+XOyuO2Zlhw/j3+er31kBPzk="
+        }
+      ]
+    }
+  ]
+}

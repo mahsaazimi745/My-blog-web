@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Programming-Blog.CoreLayer/1.0.0": {
+        "runtime": {
+          "Programming-Blog.CoreLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programming-Blog.CoreLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
