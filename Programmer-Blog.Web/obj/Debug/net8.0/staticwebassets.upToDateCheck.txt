@@ -35,7 +35,12 @@ wwwroot\dist\js\menu.js
 wwwroot\dist\js\slick.min.js
 wwwroot\favicon.ico
 wwwroot\LICENSE.md
-wwwroot\login\css\style.css
+wwwroot\login\pictor\images.jpg
+wwwroot\login\pictor\istockphoto-1569349067-612x612.jpg
+wwwroot\login\pictor\premium_photo-1678565879444-f87c8bd9f241.avif
+wwwroot\login\pictor\thumbbig-1337527.webp
+wwwroot\login\pictor\thumbbig-1358905.webp
+wwwroot\login\style.css
 wwwroot\README.md
 wwwroot\screenshot.jpeg
 wwwroot\src\scss\_reset.scss

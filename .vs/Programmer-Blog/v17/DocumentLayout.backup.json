@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\visioalstdio\\programmer\\Programmer-Blog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programmer-blog.web\\pages\\log\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|solutionrelative:programmer-blog.web\\pages\\log\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programmer-blog.web\\pages\\log\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|solutionrelative:programmer-blog.web\\pages\\log\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programmer-blog.web\\pages\\shared\\_loglayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|solutionrelative:programmer-blog.web\\pages\\shared\\_loglayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0E3930-1DCB-4AA8-87C0-AB6020412264}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programming-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E3930-1DCB-4AA8-87C0-AB6020412264}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programmer-blog.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|solutionrelative:programmer-blog.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -19,6 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Login.cshtml",
+              "RelativeDocumentMoniker": "Programmer-Blog.Web\\Pages\\Log\\Login.cshtml",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Login.cshtml*",
+              "RelativeToolTip": "Programmer-Blog.Web\\Pages\\Log\\Login.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T14:19:32.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Register.cshtml",
+              "RelativeDocumentMoniker": "Programmer-Blog.Web\\Pages\\Log\\Register.cshtml",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Register.cshtml",
+              "RelativeToolTip": "Programmer-Blog.Web\\Pages\\Log\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T14:15:00.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LogLayout.cshtml",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Shared\\_LogLayout.cshtml",
+              "RelativeDocumentMoniker": "Programmer-Blog.Web\\Pages\\Shared\\_LogLayout.cshtml",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Shared\\_LogLayout.cshtml",
+              "RelativeToolTip": "Programmer-Blog.Web\\Pages\\Shared\\_LogLayout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T13:33:19.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.DataLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Entities\\User.cs",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.DataLayer\\Entities\\User.cs",
+              "RelativeToolTip": "Programming-Blog.DataLayer\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:03:04.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Programmer-Blog.Web\\Properties\\launchSettings.json",
@@ -26,8 +94,7 @@
               "RelativeToolTip": "Programmer-Blog.Web\\Properties\\launchSettings.json",
               "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-09T10:19:57.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T10:19:57.025Z"
             }
           ]
         }

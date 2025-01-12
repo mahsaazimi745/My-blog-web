@@ -157,8 +157,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\login\\css\\style.css",
-      "PackagePath": "staticwebassets\\login\\css\\style.css"
+      "Id": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\login\\pictor\\images.jpg",
+      "PackagePath": "staticwebassets\\login\\pictor\\images.jpg"
+    },
+    {
+      "Id": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\login\\pictor\\istockphoto-1569349067-612x612.jpg",
+      "PackagePath": "staticwebassets\\login\\pictor\\istockphoto-1569349067-612x612.jpg"
+    },
+    {
+      "Id": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\login\\pictor\\premium_photo-1678565879444-f87c8bd9f241.avif",
+      "PackagePath": "staticwebassets\\login\\pictor\\premium_photo-1678565879444-f87c8bd9f241.avif"
+    },
+    {
+      "Id": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\login\\pictor\\thumbbig-1337527.webp",
+      "PackagePath": "staticwebassets\\login\\pictor\\thumbbig-1337527.webp"
+    },
+    {
+      "Id": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\login\\pictor\\thumbbig-1358905.webp",
+      "PackagePath": "staticwebassets\\login\\pictor\\thumbbig-1358905.webp"
+    },
+    {
+      "Id": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\login\\style.css",
+      "PackagePath": "staticwebassets\\login\\style.css"
     },
     {
       "Id": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\wwwroot\\screenshot.jpeg",

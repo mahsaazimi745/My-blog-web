@@ -1,0 +1,121 @@
+/* تنظیمات عمومی */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 90%; /* عرض پیش‌فرض */
+    max-width: 1000px; /* حداکثر عرض */
+    background: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+@media (min-width: 768px) {
+    .container {
+        flex-direction: row; /* در دسکتاپ به‌صورت سطری نمایش داده شود */
+    }
+}
+
+
+
+@media (min-width: 768px) {
+    .image-box {
+        height: auto; /* ارتفاع در دسکتاپ */
+    }
+}
+
+.login-image {
+    background-image: url('pictor/istockphoto-1569349067-612x612.jpg'); /* مسیر تصویر لاگین */
+    flex: 1;
+    height: 410px; /* ارتفاع پیش‌فرض */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+}
+
+.signup-image {
+    background-image: url('pictor/thumbbig-1358905.webp'); /* مسیر تصویر ثبت‌نام */
+    flex: 1;
+    height: 410px; /* ارتفاع پیش‌فرض */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* تنظیمات فرم */
+.form-box {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+label {
+    margin-bottom: 8px;
+    font-size: 14px;
+    color: #555;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

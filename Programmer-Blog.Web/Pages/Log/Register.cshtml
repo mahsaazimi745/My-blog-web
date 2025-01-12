@@ -2,13 +2,22 @@
 @model Programmer_Blog.Web.Pages.Log.LoginModel
 @{
 	Layout = "_LogLayout";
-	ViewData["Title"] = "ثبت نام ";
+	ViewData["Title"] = "Sign Up ";
 
 }
-<form action="/submit-your-login" method="POST">
-	<h1>@ViewData["Title"]</h1>
-	<input type="text" name="username" placeholder="نام کاربری" required>
-	<input type="text" name="fullname" placeholder="نام و نام خانوادگی" required>
-	<input type="password" name="password" placeholder="رمز عبور" required>
-	<button type="submit">ورود به سایت </button>
-</form>
+<div class="signup-image ">
+	<!-- تصویر از CSS نمایش داده می‌شود -->
+</div>
+<div class="form-box">
+	<h1>@ViewData["Title"] </h1>
+	<form>
+		<label for="fullname">Full Name</label>
+		<input type="text" id="fullname" placeholder="Enter Full Name">
+		<label for="username">Username</label>
+		<input type="text" id="username" placeholder="Enter Username">
+		<label for="password">Password</label>
+		<input type="password" id="password" placeholder="Enter Password">
+		<button type="submit">Sign Up</button>
+	</form>
+	<p>Already have an account? <a href="login.html">Log In</a></p>
+</div>
