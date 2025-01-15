@@ -175,3 +175,4 @@ D:\visioalstdio\programmer\Programmer-Blog\Programmer-Blog.Web\obj\Debug\net8.0\
 D:\visioalstdio\programmer\Programmer-Blog\Programmer-Blog.Web\obj\Debug\net8.0\Programmer-Blog.Web.genruntimeconfig.cache
 D:\visioalstdio\programmer\Programmer-Blog\Programmer-Blog.Web\obj\Debug\net8.0\ref\Programmer-Blog.Web.dll
 D:\visioalstdio\programmer\Programmer-Blog\Programmer-Blog.Web\obj\Debug\net8.0\Programmer-Blog.Web.sourcelink.json
+D:\visioalstdio\programmer\Programmer-Blog\Programmer-Blog.Web\bin\Debug\net8.0\libman.json

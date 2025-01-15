@@ -1,5 +1,5 @@
 ﻿@page
-@model Programmer_Blog.Web.Pages.Log.LoginModel
+@model Programmer_Blog.Web.Pages.Log.RegisterModel
 @{
 	Layout = "_LogLayout";
 	ViewData["Title"] = "Sign Up ";
@@ -10,14 +10,20 @@
 </div>
 <div class="form-box">
 	<h1>@ViewData["Title"] </h1>
-	<form>
+	<form method="post">
 		<label for="fullname">Full Name</label>
-		<input type="text" id="fullname" placeholder="Enter Full Name">
+		<input type="text" asp-for="FullName" placeholder="Enter Full Name">
+		<span asp-validation-for="FullName" style="color:red"></span>
+
 		<label for="username">Username</label>
-		<input type="text" id="username" placeholder="Enter Username">
+		<input type="text" asp-for="UserName" placeholder="Enter Username">
+		<span asp-validation-for="UserName" style="color:red"></span>
+
 		<label for="password">Password</label>
-		<input type="password" id="password" placeholder="Enter Password">
+		<input type="password" asp-for="Password" placeholder="Enter Password">
+		<span asp-validation-for="Password" style="color:red"></span>
+
 		<button type="submit">Sign Up</button>
 	</form>
-	<p>Already have an account? <a href="login.html">Log In</a></p>
+	<p>Already have an account? <a asp-page="Login" >Log In</a></p>
 </div>

@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "D:\\visioalstdio\\programmer\\Programmer-Blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programmer-blog.web\\pages\\log\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|solutionrelative:programmer-blog.web\\pages\\log\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programmer-blog.web\\pages\\log\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|solutionrelative:programmer-blog.web\\pages\\log\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programmer-blog.web\\pages\\log\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|solutionrelative:programmer-blog.web\\pages\\log\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D60DA13-62D9-444F-AF70-89D1254116F9}|Programming-Blog.CoreLayer\\Programming-Blog.CoreLayer.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programming-blog.corelayer\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D60DA13-62D9-444F-AF70-89D1254116F9}|Programming-Blog.CoreLayer\\Programming-Blog.CoreLayer.csproj|solutionrelative:programming-blog.corelayer\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D60DA13-62D9-444F-AF70-89D1254116F9}|Programming-Blog.CoreLayer\\Programming-Blog.CoreLayer.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programming-blog.corelayer\\dtos\\user\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D60DA13-62D9-444F-AF70-89D1254116F9}|Programming-Blog.CoreLayer\\Programming-Blog.CoreLayer.csproj|solutionrelative:programming-blog.corelayer\\dtos\\user\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D60DA13-62D9-444F-AF70-89D1254116F9}|Programming-Blog.CoreLayer\\Programming-Blog.CoreLayer.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programming-blog.corelayer\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D60DA13-62D9-444F-AF70-89D1254116F9}|Programming-Blog.CoreLayer\\Programming-Blog.CoreLayer.csproj|solutionrelative:programming-blog.corelayer\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programmer-blog.web\\pages\\shared\\_loglayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|solutionrelative:programmer-blog.web\\pages\\shared\\_loglayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F0E3930-1DCB-4AA8-87C0-AB6020412264}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programming-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F0E3930-1DCB-4AA8-87C0-AB6020412264}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F0E3930-1DCB-4AA8-87C0-AB6020412264}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programming-blog.datalayer\\context\\blogwcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E3930-1DCB-4AA8-87C0-AB6020412264}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\context\\blogwcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programmer-blog.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|solutionrelative:programmer-blog.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8F0E3930-1DCB-4AA8-87C0-AB6020412264}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programming-blog.datalayer\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E3930-1DCB-4AA8-87C0-AB6020412264}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programmer-blog.web\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|solutionrelative:programmer-blog.web\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D60DA13-62D9-444F-AF70-89D1254116F9}|Programming-Blog.CoreLayer\\Programming-Blog.CoreLayer.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programming-blog.corelayer\\utilities\\operatinresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D60DA13-62D9-444F-AF70-89D1254116F9}|Programming-Blog.CoreLayer\\Programming-Blog.CoreLayer.csproj|solutionrelative:programming-blog.corelayer\\utilities\\operatinresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|d:\\visioalstdio\\programmer\\programmer-blog\\programmer-blog.web\\pages\\log\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9F7DF5D-52F9-4200-9E22-7DCF7095BCBD}|Programmer-Blog.Web\\Programmer-Blog.Web.csproj|solutionrelative:programmer-blog.web\\pages\\log\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +54,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Login.cshtml",
-              "RelativeDocumentMoniker": "Programmer-Blog.Web\\Pages\\Log\\Login.cshtml",
-              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Login.cshtml",
-              "RelativeToolTip": "Programmer-Blog.Web\\Pages\\Log\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T14:19:32.503Z",
+              "DocumentIndex": 6,
+              "Title": "BlogwContext.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.DataLayer\\Context\\BlogwContext.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Context\\BlogwContext.cs",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.DataLayer\\Context\\BlogwContext.cs",
+              "RelativeToolTip": "Programming-Blog.DataLayer\\Context\\BlogwContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:14:33.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Register.cshtml",
-              "RelativeDocumentMoniker": "Programmer-Blog.Web\\Pages\\Log\\Register.cshtml",
-              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Register.cshtml",
-              "RelativeToolTip": "Programmer-Blog.Web\\Pages\\Log\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T14:15:00.666Z"
+              "DocumentIndex": 3,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.CoreLayer\\DTOs\\User\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.CoreLayer\\DTOs\\User\\UserRegisterDto.cs",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.CoreLayer\\DTOs\\User\\UserRegisterDto.cs",
+              "RelativeToolTip": "Programming-Blog.CoreLayer\\DTOs\\User\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:09:55.437Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_LogLayout.cshtml",
               "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Shared\\_LogLayout.cshtml",
               "RelativeDocumentMoniker": "Programmer-Blog.Web\\Pages\\Shared\\_LogLayout.cshtml",
               "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Shared\\_LogLayout.cshtml",
               "RelativeToolTip": "Programmer-Blog.Web\\Pages\\Shared\\_LogLayout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T13:33:19.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.DataLayer\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Entities\\User.cs",
-              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.DataLayer\\Entities\\User.cs",
-              "RelativeToolTip": "Programming-Blog.DataLayer\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T10:03:04.501Z"
+              "WhenOpened": "2025-01-12T22:24:29.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Programmer-Blog.Web\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Programmer-Blog.Web\\Properties\\launchSettings.json",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-09T10:19:57.025Z"
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.CoreLayer\\Services\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.CoreLayer\\Services\\Users\\UserService.cs",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.CoreLayer\\Services\\Users\\UserService.cs",
+              "RelativeToolTip": "Programming-Blog.CoreLayer\\Services\\Users\\UserService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:13:01.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Programmer-Blog.Web\\Pages\\Log\\Register.cshtml.cs",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Register.cshtml.cs",
+              "RelativeToolTip": "Programmer-Blog.Web\\Pages\\Log\\Register.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T21:31:32.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.CoreLayer\\Services\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.CoreLayer\\Services\\Users\\IUserService.cs",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.CoreLayer\\Services\\Users\\IUserService.cs",
+              "RelativeToolTip": "Programming-Blog.CoreLayer\\Services\\Users\\IUserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:03:27.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Register.cshtml",
+              "RelativeDocumentMoniker": "Programmer-Blog.Web\\Pages\\Log\\Register.cshtml",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Register.cshtml*",
+              "RelativeToolTip": "Programmer-Blog.Web\\Pages\\Log\\Register.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T21:41:11.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.DataLayer\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Entities\\Role.cs",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.DataLayer\\Entities\\Role.cs",
+              "RelativeToolTip": "Programming-Blog.DataLayer\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:13:34.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Programmer-Blog.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Programmer-Blog.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T13:56:03.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OperatinResult.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.CoreLayer\\Utilities\\OperatinResult.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.CoreLayer\\Utilities\\OperatinResult.cs",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programming-Blog.CoreLayer\\Utilities\\OperatinResult.cs",
+              "RelativeToolTip": "Programming-Blog.CoreLayer\\Utilities\\OperatinResult.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:32:01.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Login.cshtml",
+              "RelativeDocumentMoniker": "Programmer-Blog.Web\\Pages\\Log\\Login.cshtml",
+              "ToolTip": "D:\\visioalstdio\\programmer\\Programmer-Blog\\Programmer-Blog.Web\\Pages\\Log\\Login.cshtml",
+              "RelativeToolTip": "Programmer-Blog.Web\\Pages\\Log\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T22:01:06.002Z"
             }
           ]
         }

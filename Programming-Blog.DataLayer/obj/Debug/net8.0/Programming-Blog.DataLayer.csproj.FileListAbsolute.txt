@@ -12,3 +12,4 @@ D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.DataLayer\obj\Debug\
 D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.pdb
 D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.genruntimeconfig.cache
 D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\ref\Programming-Blog.DataLayer.dll
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.sourcelink.json

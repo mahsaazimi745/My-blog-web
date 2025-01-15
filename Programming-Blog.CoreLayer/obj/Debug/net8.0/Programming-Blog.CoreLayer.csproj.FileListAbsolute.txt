@@ -9,3 +9,8 @@ D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\
 D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\refint\Programming-Blog.CoreLayer.dll
 D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\Programming-Blog.CoreLayer.pdb
 D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\ref\Programming-Blog.CoreLayer.dll
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\Programming-Blog.CoreLayer.csproj.AssemblyReference.cache
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\Programming-Blog.CoreLayer.sourcelink.json
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\bin\Debug\net8.0\Programming-Blog.DataLayer.dll
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\bin\Debug\net8.0\Programming-Blog.DataLayer.pdb
+D:\visioalstdio\programmer\Programmer-Blog\Programming-Blog.CoreLayer\obj\Debug\net8.0\Programm.C9B64AC6.Up2Date

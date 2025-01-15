@@ -1,1 +1,4 @@
-D:\visioalstdio\programmer\Programmer-Blog\Programmer-Blog.Web\wwwroot\login\css\style.css
+D:\visioalstdio\programmer\Programmer-Blog\Programmer-Blog.Web\wwwroot\lib\types\jquery-validation-unobtrusive\index.d.ts
+D:\visioalstdio\programmer\Programmer-Blog\Programmer-Blog.Web\wwwroot\lib\types\jquery-validation-unobtrusive\license
+D:\visioalstdio\programmer\Programmer-Blog\Programmer-Blog.Web\wwwroot\lib\types\jquery-validation-unobtrusive\package.json
+D:\visioalstdio\programmer\Programmer-Blog\Programmer-Blog.Web\wwwroot\lib\types\jquery-validation-unobtrusive\readme.md
